@@ -38,13 +38,13 @@ Here are some of my notable projects:
 - **Frameworks/Tools**: Android Studio, Firebase, Selenium, Appium
 - **Specialties**: Android app development, automation, scripting, web tools
 
-## 📫 How to Reach Me
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- Email: inception09.dev@gmail.com
-- [LinkedIn](https://www.linkedin.com/inception09) (add your actual LinkedIn link if available)
-- [Twitter](https://twitter.com/inception09) (add your actual Twitter link if available)
+<h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me:</i></h2>
 
-## 💻 Current Focus
+[![Instagram](https://img.shields.io/badge/𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/https://niki404.cyber)
+[![Facebook](https://img.shields.io/badge/𝙵𝚊𝚌𝚎𝚋𝚘𝚘𝚔-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/ok.tata.good.bye.gaya)
+[![Messenger](https://img.shields.io/badge/𝙼𝙴𝚂𝚂𝙴𝙽𝙶𝙴𝚁-blue?style=for-the-badge&logo=messenger)](https://m.me/ok.tata.good.bye.gaya)
 
 I'm currently working on improving my automation tools and exploring machine learning for future projects. Stay tuned for updates!
 
