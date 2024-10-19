@@ -51,16 +51,3 @@ I'm currently working on improving my automation tools and exploring machine lea
 ---
 
 Thanks for visiting my GitHub! Feel free to explore my repositories and reach out if you'd like to collaborate or learn more about my work. Let's build something amazing together! 🚀
-
-
-- Email: inception09.dev@gmail.com
-- [LinkedIn](https://www.linkedin.com/inception09)
-- [Twitter](https://twitter.com/inception09)
-
-## 💻 Current Focus
-
-I'm currently working on improving my automation tools and exploring machine learning for future projects. Stay tuned for updates!
-
----
-
-Thanks for visiting my GitHub! Feel free to explore my repositories and reach out if you'd like to collaborate or learn more about my work. Let's build something amazing together! 🚀
