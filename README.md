@@ -22,7 +22,7 @@ Here are some of my notable projects:
 ## 📫 How to Reach Me
 
 [![Facebook](https://img.shields.io/badge/𝙵𝚊𝚌𝚎𝚋𝚘𝚘𝚔-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/iam.inc3ption)
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/@ineption00007)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/ineption00007)
 
 ## 💻 Current Focus
 
