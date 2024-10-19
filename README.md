@@ -17,8 +17,6 @@ Here are some of my notable projects:
 - **Frameworks/Tools**: Android Studio, Firebase, Selenium, Appium
 - **Specialties**: Android app development, automation, scripting, web tools
 
-## 📫 How to Reach Me
-
 # 👋 Hi, I'm Inception09!
 
 Welcome to my GitHub profile! I'm a passionate developer with expertise in building Android apps, automation scripts, and digital tools that solve real-world problems. I love creating efficient solutions and exploring new technologies.
@@ -40,10 +38,12 @@ Here are some of my notable projects:
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-<h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me:</i></h2>
+<h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> ## 📫 How to Reach Me:</i></h2>
 
 [![Facebook](https://img.shields.io/badge/𝙵𝚊𝚌𝚎𝚋𝚘𝚘𝚔-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/iam.inc3ption)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://m.me/t.me/@ineption00007)
+
+## 💻 Current Focus
 
 I'm currently working on improving my automation tools and exploring machine learning for future projects. Stay tuned for updates!
 
