@@ -46,7 +46,7 @@ Here are some of my notable projects:
 [![Facebook](https://img.shields.io/badge/𝙵𝚊𝚌𝚎𝚋𝚘𝚘𝚔-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/ok.tata.good.bye.gaya)
 [![Messenger](https://img.shields.io/badge/𝙼𝙴𝚂𝚂𝙴𝙽𝙶𝙴𝚁-blue?style=for-the-badge&logo=messenger)](https://m.me/ok.tata.good.bye.gaya)
 [![Messenger](https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=messenger)](https://m.me/ok.tata.good.bye.gaya)
-[![Messenger](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=messenger)](https://m.me/ok.tata.good.bye.gaya)
+[![Messenger](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://m.me/ok.tata.good.bye.gaya)
 
 I'm currently working on improving my automation tools and exploring machine learning for future projects. Stay tuned for updates!
 
