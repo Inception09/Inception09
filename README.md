@@ -42,11 +42,8 @@ Here are some of my notable projects:
 
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me:</i></h2>
 
-[![Instagram](https://img.shields.io/badge/𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/https://niki404.cyber)
-[![Facebook](https://img.shields.io/badge/𝙵𝚊𝚌𝚎𝚋𝚘𝚘𝚔-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/ok.tata.good.bye.gaya)
-[![Messenger](https://img.shields.io/badge/𝙼𝙴𝚂𝚂𝙴𝙽𝙶𝙴𝚁-blue?style=for-the-badge&logo=messenger)](https://m.me/ok.tata.good.bye.gaya)
-[![Messenger](https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=messenger)](https://m.me/ok.tata.good.bye.gaya)
-[![Messenger](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://m.me/ok.tata.good.bye.gaya)
+[![Facebook](https://img.shields.io/badge/𝙵𝚊𝚌𝚎𝚋𝚘𝚘𝚔-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/iam.inc3ption)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://m.me/t.me/@ineption00007)
 
 I'm currently working on improving my automation tools and exploring machine learning for future projects. Stay tuned for updates!
 
