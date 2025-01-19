@@ -14,7 +14,6 @@ Here are some of my notable projects:
 ## 💡 Skills
 
 - **Languages**: Kotlin, Python, JavaScript, HTML, CSS
-- **Frameworks/Tools**: Android Studio, Firebase, Selenium, Appium
 - **Specialties**: Android app development, automation, scripting, web tools
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
