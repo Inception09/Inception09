@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Inception09&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Builder%20%7C%20Automator%20%7C%20Reverse%20Engineer&descAlignY=58&descColor=a0aec0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Inception&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Builder%20%7C%20Automator%20%7C%20Reverse%20Engineer&descAlignY=58&descColor=a0aec0" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -34,7 +34,7 @@
 ```python
 class Inception09:
     def __init__(self):
-        self.name       = "Inception09"
+        self.name       = "Inception"
         self.location   = "Bangladesh 🇧🇩"
         self.focus      = ["Automation", "Reverse Engineering", "Tool Building"]
         self.languages  = ["Python", "Kotlin", "JavaScript", "Shell"]
