@@ -38,11 +38,11 @@ class Inception09:
         self.location   = "Bangladesh 🇧🇩"
         self.focus      = ["Automation", "Reverse Engineering", "Tool Building"]
         self.languages  = ["Python", "Kotlin", "JavaScript", "Shell"]
-        self.interests  = ["API Hacking", "Android Analysis", "Web Scraping"]
+        self.interests  = ["API Analysis", "Android Analysis", "Web Scraping"]
         self.currently  = "Building powerful automation & RE tools 🔧"
 
     def hello(self):
-        return "I don't just use tools — I build them. 🚀"
+        return "If the logic exists, I can build it."
 ```
 
 ---
@@ -150,7 +150,7 @@ class Inception09:
 
 ```
 🔭 Working on  →  Advanced automation tools & API reverse engineering
-🌱 Learning   →  Machine Learning for smart automation
+🌱 Learning   →  Machine Learning
 🔍 Exploring  →  Deep packet inspection & traffic analysis
 💡 Goal       →  Build tools that make the impossible, possible
 ```
@@ -181,6 +181,5 @@ class Inception09:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-*"The best tools are the ones you build yourself."* 🔧
 
 </div>
