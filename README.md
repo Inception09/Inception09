@@ -98,7 +98,7 @@ class Inception09:
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🔐 [**AutoCE-App**](https://github.com/Inception09/AutoCE-App) | Facebook cookie extraction tool with live UID verification & sleek UI | `Python` `PyQt5` |
+| 🔐 [**AutoCE-App**](https://github.com/Inception09/AutoCE-App) | Facebook cookie extraction tool with live UID verification & sleek UI | `Java` `Python` |
 | ⚡ [**Fast-Clone**](https://github.com/Inception09/Fast-Clone) | Community-based Facebook Password Reset & Login Tool | `Shell` |
 | 📞 [**Truecaller API**](https://github.com/Inception09/truecaller_api) | Latest number checker API for Truecaller lookups | `Python` `API` |
 | 📧 [**Gmail Login API**](https://github.com/Inception09/Gmail-Login-Api) | API method to login Gmail & retrieve session cookies | `Python` `Requests` |
